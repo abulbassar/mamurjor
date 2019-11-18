@@ -1,0 +1,38 @@
+
+1 : create a page (ex. one page template) and select page template "one page full"
+
+2: insert below shortcodes for every section:
+
+[rules][about][testimonial][team][course][services][contact]
+
+3: settings->Reading-> select static page Homepage: newly created page 
+	ex. one page template.
+
+4. Create menu name ex."Primary menu" and select location "primary"
+5. create below custom links and add to the menu and insert url 
+and classes to the menu items.
+
+URL:
+	#home
+ 	#rules: fa fa-cog
+	#about : fa fa-comment
+	#testimonial :fa fa-star
+	#team : fa fa-user
+	#course : fa fa-film
+	#contact : fa fa-phone
+
+
+
+classes: 
+	home: selected fa fa-home
+ 	rules: fa fa-cog
+	about : fa fa-comment
+	Testimonial :fa fa-star
+	team : fa fa-user
+	course : fa fa-film
+	Contact : fa fa-phone
+
+6. create a post for about information
+
+
+
